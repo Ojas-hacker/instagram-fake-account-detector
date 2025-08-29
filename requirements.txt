@@ -1,0 +1,6 @@
+Flask
+instaloader
+numpy
+pandas
+scikit-learn
+joblib
