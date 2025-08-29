@@ -31,7 +31,7 @@ This project is an AI-powered tool for automated social media forensics and anal
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/instagram-fake-account-detector.git
+git clone https://github.com/Ojas-hacker/instagram-fake-account-detector.git
 cd instagram-fake-account-detector
 ```
 
@@ -118,5 +118,3 @@ Follow the prompts to enter feature values.
 This project is licensed under the MIT License.
 
 ---
-
-**Contributions and
